@@ -1,3 +1,7 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/%5B!%5BBinder%5D(https%3A%2F%2Fmybinder.org%2Fbadge_logo.svg)%5D(https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2FCeka-83%2Fjupyter.git%2Fmaster)/master)
+
+
+
 # <img alt="NumPy" src="https://cdn.rawgit.com/numpy/numpy/master/branding/icons/numpylogo.svg" height="60">
 
 [![Travis](https://img.shields.io/travis/numpy/numpy/master.svg?label=Travis%20CI)](
